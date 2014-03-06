@@ -1,4 +1,4 @@
 wesnothian-music
 ================
 
-my compositions submitted for www.r.wesnoth.org/t39685
+my compositions submitted for http://r.wesnoth.org/t39685
